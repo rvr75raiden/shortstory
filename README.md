@@ -14,6 +14,7 @@
     - [恩師も来たりなば幸遠からじ(前編)](./AfterAUREOLE/02_恩師も来たりなば幸遠からじ(前編).md)
     - [恩師も来たりなば幸遠からじ(後編)](./AfterAUREOLE/03_恩師も来たりなば幸遠からじ(後編).md)
 - 番外編
+    - [英雄と鋼～Fathers and Sons～](./AfterAUREOLE/10_英雄と鋼～Fathers%20and%20Sons～.md)
     - [オルデン卿は祝いたい](./AfterAUREOLE/14_オルデン卿は祝いたい.md)
 
 # 書きかけ版
