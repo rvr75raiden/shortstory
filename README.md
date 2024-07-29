@@ -21,6 +21,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     - [願い望まば春遠からじ](./AfterAUREOLE/01_願い望まば春遠からじ.md)
     - [恩師も来たりなば幸遠からじ(前編)](./AfterAUREOLE/02_恩師も来たりなば幸遠からじ(前編).md)
     - [恩師も来たりなば幸遠からじ(後編)](./AfterAUREOLE/03_恩師も来たりなば幸遠からじ(後編).md)
+    - [名君集えば芽吹も近く](./AfterAUREOLE/04_名君集えば芽吹きも近く.md)
 - 番外編
     - [英雄と鋼～Fathers and Sons～](./AfterAUREOLE/10_英雄と鋼～Fathers%20and%20Sons～.md)
     - [オルデン卿は祝いたい](./AfterAUREOLE/14_オルデン卿は祝いたい.md)
