@@ -25,6 +25,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
 - 番外編
     - [英雄と鋼～Fathers and Sons～](./AfterAUREOLE/10_英雄と鋼～Fathers%20and%20Sons～.md)
     - [夜の果実は禁忌の様に甘く](./AfterAUREOLE/11_夜の果実酒は禁忌の様に甘く.md)
+    - [君の隠し事は華より尊い](./AfterAUREOLE/12_君の隠し事は華より尊い.md)
     - [オルデン卿は祝いたい](./AfterAUREOLE/14_オルデン卿は祝いたい.md)
 
 ## 書きかけ版
