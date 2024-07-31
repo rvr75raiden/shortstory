@@ -24,6 +24,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     - [名君集えば芽吹も近く](./AfterAUREOLE/04_名君集えば芽吹きも近く.md)
 - 番外編
     - [英雄と鋼～Fathers and Sons～](./AfterAUREOLE/10_英雄と鋼～Fathers%20and%20Sons～.md)
+    - [夜の果実は禁忌の様に甘く](./AfterAUREOLE/11_夜の果実酒は禁忌の様に甘く.md)
     - [オルデン卿は祝いたい](./AfterAUREOLE/14_オルデン卿は祝いたい.md)
 
 ## 書きかけ版
