@@ -11,11 +11,12 @@ Seeing his master's straightforward appearance, Fern laughs bitterly, thinking t
 
 Thus, Freiren and his party accomplished the purpose of their journey, but Fern felt some regret and a little impatience.  
 The long journey that seemed to go on forever came to an end, and at the same time, the reason for being in this party also came to an end.  
-Fern was studying under Freiren according to Heiter's will, so if there was no other reason, She should continue to follow Freiren. If possible, She would like to stay by his side forever. ...But what will happen to Stark?  
+Fern was studying under Freiren according to Heiter's will, so if there was no other reason, She should continue to follow Freiren. If possible, She would like to stay by her side forever. ...But what will happen to Stark?  
 
 He will probably return to Eizen to talk about his memories of the trip, which was his original purpose. After that...? Will he continue the journey with him?  
 
-Before She knew it, having Stark beside Fern had become so natural. She felt safe next to him, and it was kind of itchy and comfortable. She realized once again how much She had been taking this situation for granted. The place where souls sleep She felt a sense of urgency as the day drew nearer. She felt like the day when she would have to make a decision about the reality of the end of trip, which she had been putting off, was drawing nearer and nearer.  
+Before She knew it, having Stark beside Fern had become so natural. She felt safe next to him, and it was kind of itchy and comfortable. She realized once again how much She had been taking this situation for granted.  
+She felt a sense of urgency as the day drew nearer. She felt like the day when she would have to make a decision about the reality of the end of trip, which she had been putting off, was drawing nearer and nearer.  
 
 "Before heading to Master's place, could you please head to the ruins of... the warrior village in the Kure region?"  
 
