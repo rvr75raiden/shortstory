@@ -30,7 +30,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11475764)
 |[風の強い日、君は空を覆う](./frierenSINGLE/風の強い日、君は空を覆う.md)|[■](https://www.pixiv.net/novel/show.php?id=21465301)|フリーレン、フェルン、シュタルク|
 |[盲目の蝶、欺瞞の檻（前編）](./frierenSINGLE/盲目の蝶、欺瞞の檻（前編）.md)|[■](https://www.pixiv.net/novel/show.php?id=22191759)|フリーレン、フェルン、シュタルク|
 |[盲目の蝶、欺瞞の檻（後編）](./frierenSINGLE/盲目の蝶、欺瞞の檻（後編）.md)|[■](https://www.pixiv.net/novel/show.php?id=22291675)|フリーレン、フェルン、シュタルク|
-|[青い蝶と紫の影を落とす華](./frierenSINGLE/青い蝶と紫の影を落とす華.md)|[■](https://www.pixiv.net/novel/show.php?id=22885649)|フリーレン、フェルン、シュタルク|
+|[青い蝶と紫の影を落とす華](./frierenSINGLE/青い蝶と紫の影を落とす華.md)|[■](https://www.pixiv.net/novel/show.php?id=22885649)|フリーレン、フェルン、シュタルク、オリジナルゲストキャラ|
 
 ## 葬送のフリーレン-アフターオレオールシリーズ
 葬送のフリーレンにおける オレオール到達後に関わる2次創作小説です。
