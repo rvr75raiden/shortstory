@@ -30,7 +30,7 @@ It took roughly a year for them to travel south. After the three gathered, they 
 
 Stark looks down at the land where he spent his childhood.  
 
-"You've returned home."  
+"We has returned home."  
 
 The remains of the warrior's village, visible on the other side of the hill, had been left untouched for nearly ten years since Rivera's attack, and even from a distance the row of buildings were in ruins, and upon closer inspection it was clear that monsters had taken up residence there.  
 
