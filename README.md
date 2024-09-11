@@ -28,6 +28,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11475764)
 |----|----|----|    
 |[鏡蓮華と名も知らぬ花](./frierenSINGLE/鏡蓮華と名も知らぬ花.md)|[■](https://www.pixiv.net/novel/show.php?id=21425380)|シュタルク、フェルン、オリジナルゲストキャラ|
 |[風の強い日、君は空を覆う](./frierenSINGLE/風の強い日、君は空を覆う.md)|[■](https://www.pixiv.net/novel/show.php?id=21465301)|フリーレン、フェルン、シュタルク|
+|[Fragment 未来の可能性と邂逅する魔法](./frierenSINGLE/Fragment_未来の可能性と邂逅する魔法.md)|[■](https://www.pixiv.net/novel/show.php?id=21606580)|フリーレン、フェルン、シュタルク|
 |[戦士の距離とふたりの距離](./frierenSINGLE/戦士の距離とふたりの距離.md)|[■](https://www.pixiv.net/novel/show.php?id=21957774)|フリーレン、フェルン、シュタルク|
 |[盲目の蝶、欺瞞の檻（前編）](./frierenSINGLE/盲目の蝶、欺瞞の檻（前編）.md)|[■](https://www.pixiv.net/novel/show.php?id=22191759)|フリーレン、フェルン、シュタルク、オリジナルゲストキャラ|
 |[盲目の蝶、欺瞞の檻（後編）](./frierenSINGLE/盲目の蝶、欺瞞の檻（後編）.md)|[■](https://www.pixiv.net/novel/show.php?id=22291675)|フリーレン、フェルン、シュタルク、オリジナルゲストキャラ|
