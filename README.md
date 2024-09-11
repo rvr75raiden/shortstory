@@ -1,10 +1,6 @@
 # このページは
 
-Pixiv で展開した2次小説のソーステキストをまとめている場所です。  
-現在徐々に移植作業を勧めている最中なので全体の完了は今しばらくお待ちください。（2024/8/1時点）
-
-
-
+Pixiv で展開した2次小説のソーステキストをまとめている場所です。
 
 ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)まで。
 
