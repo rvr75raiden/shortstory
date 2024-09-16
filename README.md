@@ -62,7 +62,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[13_夫婦喧嘩は師匠もくわぬが役に立つ](./AfterAUREOLE/13_夫婦喧嘩は師匠もくわぬが役に立つ.md)|[■](https://www.pixiv.net/novel/show.php?id=22512490)|アイゼン、シュタルク、フェルン、フリーレン|
     |[14_オルデン卿は祝いたい](./AfterAUREOLE/14_オルデン卿は祝いたい.md)|[■](https://www.pixiv.net/novel/show.php?id=22617320)|オルデン卿、ムート、シュタルク、フェルン、フリーレン、グラナト伯爵|
     |[15_想いは抱擁の温もりの中に](./AfterAUREOLE/15_想いは抱擁の温もりの中に.md)|[■](https://www.pixiv.net/novel/show.php?id=22734982)|デンケン、フェルン、シュタルク、フリーレン|
-    |[16_町の髪飾りを外した日](./AfterAUREOLE/16_蝶の髪飾りを外した日.md)|[■](https://www.pixiv.net/novel/show.php?id=23009847)|ザイン、シュタルク、フェルン、フリーレン、オリジナル|
+    |[16_蝶の髪飾りを外した日](./AfterAUREOLE/16_蝶の髪飾りを外した日.md)|[■](https://www.pixiv.net/novel/show.php?id=23009847)|ザイン、シュタルク、フェルン、フリーレン、オリジナル|
 
 ## 書きかけ版
 作成中のものなので未完＆誤字多め等々でも良ければ
