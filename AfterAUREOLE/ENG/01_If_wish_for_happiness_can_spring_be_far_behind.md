@@ -569,3 +569,8 @@ The two of them just kept repeating "Mr. Stark is so naughty" and "I'm sorry"
 "You came back pretty quickly, but don't humans have children after conversations like that?"  
 
 Frieren had intended it to be a simple question... but the blunt question only added fuel to the fire, and the commotion came to an end with a lecture starting with "Lady Frieren, please sit upright over there," and Stark muttering with a faraway look in his eyes, "Well, we'll have to make a proper house and bedroom, won't we?"  
+
+
+# If it was interesting
+
+Please press ❤ on [Pixiv Story](https://www.pixiv.net/novel/show.php?id=21368647)
