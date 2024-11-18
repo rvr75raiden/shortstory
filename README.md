@@ -2,6 +2,9 @@
 
 Pixiv で展開した2次小説のソーステキストをまとめている場所です。
 
+現在は以下のタイトルのSSを書いています。（場合によっては増えるかも）
+- 葬送のフリーレン
+
 ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)まで。
 
 リクエストなどもあれば遠慮なくどうぞ
@@ -69,6 +72,9 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
 作成中のものなので未完＆誤字多め等々でも良ければ。
 
 - [追憶の英雄譚と鋼](./draft/追憶の英雄譚と鋼.md)
+- [黒翼と捨て猫](./draft/黒翼と捨て猫.md)
+- [幕間の短編集①_in_Journey_to_Aureole](./draft/幕間の短編集①_in_Journey_to_Aureole.md)
+- [幕間の短編集①_in_After_Aureole](./draft/幕間の短編集①_in_After_Aureole.md)
 
 ## 注意
 
