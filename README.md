@@ -69,7 +69,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[15_想いは抱擁の温もりの中に](./AfterAUREOLE/15_想いは抱擁の温もりの中に.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=22734982)|デンケン、フェルン、シュタルク、フリーレン|
     |[16_蝶の髪飾りを外した日](./AfterAUREOLE/16_蝶の髪飾りを外した日.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23009847)|ザイン、シュタルク、フェルン、フリーレン、オリジナル|
     |[17_剣に捧げる鎮魂歌](./AfterAUREOLE/17_剣に捧げる鎮魂歌.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23156901)|シュタルク、フェルン、フリーレン、アイゼン|
-   |[18_幕間の短編集_in_After_Aureole](./AfterAUREOLE/18_幕間の短編集①_in_After_Aureole.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23556559)|シュタルク、フェルン、フリーレン、アイゼン|
+   |[18_幕間の短編集_in_After_Aureole](./AfterAUREOLE/18_幕間の短編集①_in_After_Aureole.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23556559)|シュタルク、フェルン|
 
 ## 葬送のフリーレン- Path to Stahl 
 
