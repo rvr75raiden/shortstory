@@ -25,13 +25,15 @@ Pixiv で展開した2次小説のソーステキストをまとめている場�
 Pixiv は [こちらです](https://www.pixiv.net/novel/series/11475764)
 |タイトル|外部Link|主要キャラ|
 |----|----|----|    
-|[鏡蓮華と名も知らぬ花](./frierenSINGLE/鏡蓮華と名も知らぬ花.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=21425380)|シュタルク、フェルン、オリジナルゲストキャラ|
-|[風の強い日、君は空を覆う](./frierenSINGLE/風の強い日、君は空を覆う.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=21465301)|フリーレン、フェルン、シュタルク|
-|[Fragment 未来の可能性と邂逅する魔法](./frierenSINGLE/Fragment_未来の可能性と邂逅する魔法.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=21606580)|フリーレン、フェルン、シュタルク|
-|[戦士の距離とふたりの距離](./frierenSINGLE/戦士の距離とふたりの距離.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=21957774)|フリーレン、フェルン、シュタルク|
-|[盲目の蝶、欺瞞の檻（前編）](./frierenSINGLE/盲目の蝶、欺瞞の檻（前編）.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=22191759)|フリーレン、フェルン、シュタルク、オリジナルゲストキャラ|
-|[盲目の蝶、欺瞞の檻（後編）](./frierenSINGLE/盲目の蝶、欺瞞の檻（後編）.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=22291675)|フリーレン、フェルン、シュタルク、オリジナルゲストキャラ|
-|[青い蝶と紫の影を落とす華](./frierenSINGLE/青い蝶と紫の影を落とす華.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=22885649)|フリーレン、フェルン、シュタルク、オリジナルゲストキャラ|
+|[鏡蓮華と名も知らぬ花](./frierenSINGLE/01_鏡蓮華と名も知らぬ花.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=21425380)|シュタルク、フェルン、オリジナルゲストキャラ|
+|[風の強い日、君は空を覆う](./frierenSINGLE/02_風の強い日、君は空を覆う.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=21465301)|フリーレン、フェルン、シュタルク|
+|[Fragment 未来の可能性と邂逅する魔法](./frierenSINGLE/03_Fragment_未来の可能性と邂逅する魔法.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=21606580)|フリーレン、フェルン、シュタルク|
+|[戦士の距離とふたりの距離](./frierenSINGLE/04_戦士の距離とふたりの距離.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=21957774)|フリーレン、フェルン、シュタルク|
+|[盲目の蝶、欺瞞の檻（前編）](./frierenSINGLE/05_盲目の蝶、欺瞞の檻（前編）.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=22191759)|フリーレン、フェルン、シュタルク、オリジナルゲストキャラ|
+|[盲目の蝶、欺瞞の檻（後編）](./frierenSINGLE/06_盲目の蝶、欺瞞の檻（後編）.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=22291675)|フリーレン、フェルン、シュタルク、オリジナルゲストキャラ|
+|[青い蝶と紫の影を落とす華](./frierenSINGLE/07_青い蝶と紫の影を落とす華.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=22885649)|フリーレン、フェルン、シュタルク、オリジナルゲストキャラ|
+|[幕間の短編集_in_Journey_to_Aureole](./frierenSINGLE/08_幕間の短編集①_in_Journey_to_Aureole.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23556454)|フェルン、シュタルク|
+
 
 ## 葬送のフリーレン-アフターオレオールシリーズ
 
@@ -67,14 +69,24 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[15_想いは抱擁の温もりの中に](./AfterAUREOLE/15_想いは抱擁の温もりの中に.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=22734982)|デンケン、フェルン、シュタルク、フリーレン|
     |[16_蝶の髪飾りを外した日](./AfterAUREOLE/16_蝶の髪飾りを外した日.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23009847)|ザイン、シュタルク、フェルン、フリーレン、オリジナル|
     |[17_剣に捧げる鎮魂歌](./AfterAUREOLE/17_剣に捧げる鎮魂歌.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23156901)|シュタルク、フェルン、フリーレン、アイゼン|
+   |[18_幕間の短編集_in_After_Aureole](./AfterAUREOLE/18_幕間の短編集①_in_After_Aureole.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23556559)|シュタルク、フェルン、フリーレン、アイゼン|
+
+## 葬送のフリーレン- Path to Stahl 
+
+アフターオレオールの続編というかスピンオフのようなものです。
+
+- 本編
+    |タイトル|外部Link|主要キャラ|
+    |----|----|----|
+    |[01_追憶の英雄譚と鋼_1](./PathToStahl/01_追憶の英雄譚と鋼_1.md) |[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23532246)|オリジナル、フェルン、フリーレン、（シュタルク）|
+
+
 
 ## 書きかけ版
 作成中のものなので未完＆誤字多め等々でも良ければ。
 
 - [追憶の英雄譚と鋼](./draft/追憶の英雄譚と鋼.md)
 - [黒翼と捨て猫](./draft/黒翼と捨て猫.md)
-- [幕間の短編集①_in_Journey_to_Aureole](./draft/幕間の短編集①_in_Journey_to_Aureole.md)
-- [幕間の短編集①_in_After_Aureole](./draft/幕間の短編集①_in_After_Aureole.md)
 
 ## 注意
 
