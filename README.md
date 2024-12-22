@@ -79,7 +79,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |タイトル|外部Link|主要キャラ|
     |----|----|----|
     |[01_追憶の英雄譚と鋼_1](./PathToStahl/01_追憶の英雄譚と鋼_1.md) |[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23532246)|オリジナル、フェルン、フリーレン、（シュタルク）|
-
+    |[02_追憶の英雄譚と鋼_2](./PathToStahl/02_追憶の英雄譚と鋼_2.md) |[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23651000)|オリジナル、シュタルク、フェルン、フリーレン|
 
 
 ## 書きかけ版
@@ -87,6 +87,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
 
 - [追憶の英雄譚と鋼](./draft/追憶の英雄譚と鋼.md)
 - [黒翼と捨て猫](./draft/黒翼と捨て猫.md)
+- [迷子と行商のラプソディ](./draft/迷子と行商のラプソディ.md)
 
 ## 注意
 
