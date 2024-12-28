@@ -33,6 +33,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11475764)
 |[盲目の蝶、欺瞞の檻（後編）](./frierenSINGLE/06_盲目の蝶、欺瞞の檻（後編）.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=22291675)|フリーレン、フェルン、シュタルク、オリジナルゲストキャラ|
 |[青い蝶と紫の影を落とす華](./frierenSINGLE/07_青い蝶と紫の影を落とす華.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=22885649)|フリーレン、フェルン、シュタルク、オリジナルゲストキャラ|
 |[幕間の短編集_in_Journey_to_Aureole](./frierenSINGLE/08_幕間の短編集①_in_Journey_to_Aureole.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23556454)|フェルン、シュタルク|
+|[黒翼と子猫](./frierenSINGLE/09_黒翼と子猫.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23692407)|ゲナウ、メトーデ|
 
 
 ## 葬送のフリーレン-アフターオレオールシリーズ
