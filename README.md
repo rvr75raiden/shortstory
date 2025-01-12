@@ -71,6 +71,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[16_蝶の髪飾りを外した日](./AfterAUREOLE/16_蝶の髪飾りを外した日.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23009847)|ザイン、シュタルク、フェルン、フリーレン、オリジナル|
     |[17_剣に捧げる鎮魂歌](./AfterAUREOLE/17_剣に捧げる鎮魂歌.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23156901)|シュタルク、フェルン、フリーレン、アイゼン|
    |[18_幕間の短編集_in_After_Aureole](./AfterAUREOLE/18_幕間の短編集①_in_After_Aureole.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23556559)|シュタルク、フェルン|
+    |[19_迷子と行商のラプソディ](./AfterAUREOLE/19_迷子と行商のラプソディ.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23797957)|シュタルク、フェルン|
 
 ## 葬送のフリーレン- Path to Stahl 
 
@@ -87,8 +88,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
 作成中のものなので未完＆誤字多め等々でも良ければ。
 
 - [追憶の英雄譚と鋼](./draft/追憶の英雄譚と鋼.md)
-- [黒翼と捨て猫](./draft/黒翼と捨て猫.md)
-- [迷子と行商のラプソディ](./draft/迷子と行商のラプソディ.md)
+- [夫婦喧嘩は家族も食わぬが役に立つ](./draft/夫婦喧嘩は家族も食わぬが役に立つ.md)
 
 ## 注意
 
