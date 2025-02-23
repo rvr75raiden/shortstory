@@ -86,12 +86,14 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[02_追憶の英雄譚と鋼_2](./PathToStahl/02_追憶の英雄譚と鋼_2.md) |[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23651000)|オリジナル、シュタルク、フェルン、フリーレン|
     |[03_追憶の英雄譚と鋼_3](./PathToStahl/03_追憶の英雄譚と鋼_3.md) |[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23847514)|オリジナル、シュタルク、フェルン、フリーレン|
     |[04_Revengence_of_Venom_1](./PathToStahl/04_Revengence_of_Venom_1.md) |[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23992486)|オリジナル、シュタルク|    
+    |[05_Revengence_of_Venom_2](./PathToStahl/05_Revengence_of_Venom_2.md) |[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23992486)|オリジナル、フェルン、フリーレン|    
 
 
 ## 書きかけ版
 作成中のものなので未完＆誤字多め等々でも良ければ。
 
-- [Revengence of Venom](./draft/Revengence_of_Venom.md) : Path to Stahl #5 第１部後半
+- [Revengence of Venom](./draft/Revengence_of_Venom.md) : Path to Stahl #6 第１部後半
+- [Little my Crimson Princess](./draft/Little_my_Crimson_princess.md) : 小さな真紅のお姫様 ティアフォートが幼なかった頃、少女がどういう思いを抱えて今に至るかを語る物語。
 
 ## 注意
 
