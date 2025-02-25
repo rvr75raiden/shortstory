@@ -73,6 +73,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[18_幕間の短編集_in_After_Aureole](./AfterAUREOLE/18_幕間の短編集①_in_After_Aureole.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23556559)|シュタルク、フェルン|
     |[19_迷子と行商のラプソディ](./AfterAUREOLE/19_迷子と行商のラプソディ.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23797957)|シュタルク、フェルン|
     |[20_夫婦喧嘩は家族も食わぬが役に立つ](./AfterAUREOLE/20_夫婦喧嘩は家族も食わぬが役に立つ.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=23917046)|シュタルク、フェルン、フリーレン、オリジナル|
+    |[21_小さな真紅のお姫様 ～ Little my Crimson Princess ～](./AfterAUREOLE/21_Little_my_Crimson_princess.md)|[Pixiv小説](https://www.pixiv.net/novel/show.php?id=24132751)|シュタルク、フェルン、フリーレン、オリジナル|
 
 
 ## 葬送のフリーレン- Path to Stahl 
@@ -93,9 +94,8 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
 作成中のものなので未完＆誤字多め等々でも良ければ。
 
 - [Revengence of Venom](./draft/Revengence_of_Venom.md) : Path to Stahl #6 第１部後半
-- [Little my Crimson Princess](./draft/Little_my_Crimson_princess.md) : 小さな真紅のお姫様 ティアフォートが幼なかった頃、少女がどういう思いを抱えて今に至るかを語る物語。
 
-## 注意
 
+## その他
 葬送のフリーレンにおける著作権は ©️ 山田鐘人・アベツカサ/小学館 (敬称略) に帰属し、それを尊重します。
 同一性保持権、翻案権に基づき権利者からの申し入れなど入った場合は本サイトコンテンツは即座に削除いたします。
