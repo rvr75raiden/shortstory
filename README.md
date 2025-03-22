@@ -74,6 +74,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[19_迷子と行商のラプソディ](./AfterAUREOLE/19_迷子と行商のラプソディ.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23797957)|シュタルク、フェルン|
     |[20_夫婦喧嘩は家族も食わぬが役に立つ](./AfterAUREOLE/20_夫婦喧嘩は家族も食わぬが役に立つ.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23917046)|シュタルク、フェルン、フリーレン、オリジナル|
     |[21_小さな真紅のお姫様 ～ Little my Crimson Princess ～](./AfterAUREOLE/21_Little_my_Crimson_princess.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24132751)|シュタルク、フェルン、フリーレン、オリジナル|
+    |[22_ワスレナグサとトコハナの唄.md](./AfterAUREOLE/22_ワスレナグサとトコハナの唄.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24333896)|シュタルク、フェルン、フリーレン、オルデン卿、オリジナル|
 
 
 ## 葬送のフリーレン- Path to Stahl 
