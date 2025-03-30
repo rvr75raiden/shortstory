@@ -87,8 +87,9 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[01_追憶の英雄譚と鋼_1](./PathToStahl/01_追憶の英雄譚と鋼_1.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23532246)|オリジナル、フェルン、フリーレン、（シュタルク）|
     |[02_追憶の英雄譚と鋼_2](./PathToStahl/02_追憶の英雄譚と鋼_2.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23651000)|オリジナル、シュタルク、フェルン、フリーレン|
     |[03_追憶の英雄譚と鋼_3](./PathToStahl/03_追憶の英雄譚と鋼_3.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23847514)|オリジナル、シュタルク、フェルン、フリーレン|
-    |[04_Revengence_of_Venom_1](./PathToStahl/04_Revengence_of_Venom_1.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23992486)|オリジナル、シュタルク|    
-    |[05_Revengence_of_Venom_2](./PathToStahl/05_Revengence_of_Venom_2.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23992486)|オリジナル、フェルン、フリーレン|    
+    |[04_報復の猛毒は英雄詩を紡ぐ 〜Revengence of Venom 〜 1](./PathToStahl/04_Revengence_of_Venom_1.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23992486)|オリジナル、シュタルク|    
+    |[05_報復の猛毒は英雄詩を紡ぐ 〜Revengence of Venom 〜 2](./PathToStahl/05_Revengence_of_Venom_2.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24111792)|オリジナル、フェルン、フリーレン|    
+    |[06_報復の猛毒は英雄詩を紡ぐ 〜Revengence of Venom 〜 3](./PathToStahl/06_Revengence_of_Venom_3.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24382633)|オリジナル、フェルン、フリーレン|    
 
 
 ## 書きかけ版
