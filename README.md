@@ -90,12 +90,14 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[04_報復の猛毒は英雄詩を紡ぐ 〜Revengence of Venom 〜 1](./PathToStahl/04_Revengence_of_Venom_1.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23992486)|オリジナル、シュタルク|    
     |[05_報復の猛毒は英雄詩を紡ぐ 〜Revengence of Venom 〜 2](./PathToStahl/05_Revengence_of_Venom_2.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24111792)|オリジナル、フェルン、フリーレン|    
     |[06_報復の猛毒は英雄詩を紡ぐ 〜Revengence of Venom 〜 3](./PathToStahl/06_Revengence_of_Venom_3.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24382633)|オリジナル、フェルン、フリーレン|    
+    |[07_報復の猛毒は英雄詩を紡ぐ 〜Revengence of Venom 〜 4](./PathToStahl/07_Revengence_of_Venom_4.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24481978)|オリジナル、フェルン、フリーレン|    
+    |[08_報復の猛毒は英雄詩を紡ぐ 〜Revengence of Venom 〜 5](./PathToStahl/08_Revengence_of_Venom_5.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24482019)|オリジナル、フェルン、フリーレン|    
 
 
 ## 書きかけ版
 作成中のものなので未完＆誤字多め等々でも良ければ。
 
-- [Revengence of Venom](./draft/Revengence_of_Venom.md) : Path to Stahl #6 第１部後半
+- [Revengence of Venom](./draft/Revengence_of_Venom.md) : Path to Stahl #9 
 
 
 ## その他
