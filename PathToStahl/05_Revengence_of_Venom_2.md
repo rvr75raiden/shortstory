@@ -1,4 +1,4 @@
-# 報復の猛毒は英雄詩を紡ぐ 〜Revengence of Venom 〜 2
+# 報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 2
 
 ※ Path to Stahl 第5話  
 ※ 葬送のフリーレンの２次創作としてファンにコミットするものは何もありませんので注意  
