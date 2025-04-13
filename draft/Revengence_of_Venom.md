@@ -1,5 +1,5 @@
 # 報復の猛毒は英雄詩を謳う 〜Revengence of Venom〜 6  
-※ Path to Stahl 第9話かきかけです。  
+※ Path to Stahl 第９話 現在監修中です。 
 ※ 葬送のフリーレンの２次創作としてファンにコミットするものは何もありませんので注意  
 ※ アフターオレオールのスピンオフであり、世界観を流用したオリキャラだらけの物語です。  
 
@@ -2040,4 +2040,4 @@ Path to Stahl第９話 狂人ヴェノムの放った奥の手の３体の巨大
 
 それは胸を張ってもいいのかもしれない。  
 
-～ 報復の猛毒は英雄詩を謳う ＜Revengence of Venom＞ FIN and to be continued ～
+～ 報復の猛毒は英雄詩を謳う ＜Revengence of Venom＞ FIN and to be continued ～  
