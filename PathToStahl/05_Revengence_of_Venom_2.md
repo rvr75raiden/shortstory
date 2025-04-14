@@ -1,4 +1,4 @@
-# 報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 2  
+# 報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 2 【第１部】 
 
 ```  
 Path to Stahl 第5話。前回、救出した人達を連れて逃げる中、警告鳴り響く脱出劇のお話です。  

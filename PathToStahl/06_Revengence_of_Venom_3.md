@@ -1,4 +1,4 @@
-# 報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 3  
+# 報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 3 【第１部】 
 
 ```  
 Path to Stahl 第6話。前回、ついに姿を表した敵のヴェノムと対峙するシュタアルとルーエとフリーレンのお話です。
