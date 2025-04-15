@@ -1,1 +1,0 @@
-最新話は[こちらに](../PathToStahl/09_Revengence_of_Venom_6.md)移動
