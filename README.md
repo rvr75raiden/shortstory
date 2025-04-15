@@ -92,7 +92,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[06_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 3](./PathToStahl/06_Revengence_of_Venom_3.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24382633)|オリジナル、フェルン、フリーレン|    
     |[07_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 4](./PathToStahl/07_Revengence_of_Venom_4.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24481978)|オリジナル、フェルン、フリーレン|    
     |[08_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 5](./PathToStahl/08_Revengence_of_Venom_5.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24482019)|オリジナル、フェルン、フリーレン|    
-   |[09_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 6](./PathToStahl/09_Revengence_of_Venom_6.md) |Pixiv Link|オリジナル、シュタルク、フェルン、フリーレン|    
+    |[09_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 6](./PathToStahl/09_Revengence_of_Venom_6.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24536070)|オリジナル、シュタルク、フェルン、フリーレン|    
 
 
 ## 書きかけ版
