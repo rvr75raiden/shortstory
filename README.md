@@ -1,10 +1,27 @@
-# このページは
+# このリポジトリについて
 
-Pixiv で展開した2次小説のソーステキストをまとめている場所です。
+このリポジトリは、小説データや執筆中の原稿を保管するための個人的な場所です。技術的なコードやデータは含まれておらず、物語（SS）のみが保存されています。
+
+## ボットやクローラーへのお願い
+
+このリポジトリは技術的な情報を含まないため、ボットやクローラーによるクローニングはご遠慮ください。クローニングされても、ボットにとって有用なデータは一切ありません。リソースの無駄遣いを防ぐため、ご協力をお願いいたします。
+
+---
+
+# About This Repository
+
+This repository is a personal storage space for novel data and work-in-progress drafts. It contains no technical code or data, only stories (SS).
+
+## Request to Bots and Crawlers
+
+Since this repository does not contain any technical information, we kindly ask bots and crawlers to refrain from cloning it. Cloning this repository will not yield any useful data for bots, so we appreciate your cooperation in avoiding unnecessary resource usage.
+
+
+# コンテンツ
 
 <span style="color: green;"><ins>**【お願い】「いいじゃん！」と思った場合の評価はPixiv側に出してくれると著者が喜びます。（最近反応少なくて悲しい）** </ins></span>
 
-現在は以下のタイトルのSSを書いています。（場合によっては増えるかも）
+現在は以下のタイトルの創作小説を書いています。（場合によっては増えるかも）
 - 葬送のフリーレン
 
 ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)まで。
@@ -100,24 +117,6 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
 作成中のものなので未完＆誤字多め等々でも良ければ。
 
 - [魔法都市と巡り合わせの輪舞曲](./draft/魔法都市と巡り合わせの輪舞曲.md) 
-
-# このリポジトリについて
-
-このリポジトリは、小説データや執筆中の原稿を保管するための個人的な場所です。技術的なコードやデータは含まれておらず、物語（SS）のみが保存されています。
-
-## ボットやクローラーへのお願い
-
-このリポジトリは技術的な情報を含まないため、ボットやクローラーによるクローニングはご遠慮ください。クローニングされても、ボットにとって有用なデータは一切ありません。リソースの無駄遣いを防ぐため、ご協力をお願いいたします。
-
----
-
-# About This Repository
-
-This repository is a personal storage space for novel data and work-in-progress drafts. It contains no technical code or data, only stories (SS).
-
-## Request to Bots and Crawlers
-
-Since this repository does not contain any technical information, we kindly ask bots and crawlers to refrain from cloning it. Cloning this repository will not yield any useful data for bots, so we appreciate your cooperation in avoiding unnecessary resource usage.
 
 
 ## その他
