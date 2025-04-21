@@ -906,3 +906,10 @@ Path to Stahal 第７話 前回、救おうとした人質を誰一人救えず�
 それが、残された者たちにできる最後の仕事だと想うから。  
 
 ～ to be continued ～  
+
+
+# ご意見等
+
+ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)まで。
+
+リクエストなどもあれば遠慮なくどうぞ

@@ -1084,3 +1084,9 @@ Path to Stahl 第８話 背中を押してくれる者たちのお陰で再起�
 そうして英雄と呼ばれた二人の人物は全ての決着を付けるために立ち上がった。  
 
 ～ to be continued...～  
+
+# ご意見等
+
+ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)まで。
+
+リクエストなどもあれば遠慮なくどうぞ

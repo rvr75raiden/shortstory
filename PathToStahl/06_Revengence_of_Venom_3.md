@@ -1218,3 +1218,10 @@ Path to Stahl 第6話。前回、ついに姿を表した敵のヴェノムと�
 シュタアルの姿をしたシュトルツは吹き飛んだヴェノムの方を向いて歩みを進め始めた。  
 
 ～ to be continued ～  
+
+
+# ご意見等
+
+ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)まで。
+
+リクエストなどもあれば遠慮なくどうぞ
