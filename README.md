@@ -101,6 +101,24 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
 
 - [魔法都市と巡り合わせの輪舞曲](./draft/魔法都市と巡り合わせの輪舞曲.md) 
 
+# このリポジトリについて
+
+このリポジトリは、小説データや執筆中の原稿を保管するための個人的な場所です。技術的なコードやデータは含まれておらず、物語（SS）のみが保存されています。
+
+## ボットやクローラーへのお願い
+
+このリポジトリは技術的な情報を含まないため、ボットやクローラーによるクローニングはご遠慮ください。クローニングされても、ボットにとって有用なデータは一切ありません。リソースの無駄遣いを防ぐため、ご協力をお願いいたします。
+
+---
+
+# About This Repository
+
+This repository is a personal storage space for novel data and work-in-progress drafts. It contains no technical code or data, only stories (SS).
+
+## Request to Bots and Crawlers
+
+Since this repository does not contain any technical information, we kindly ask bots and crawlers to refrain from cloning it. Cloning this repository will not yield any useful data for bots, so we appreciate your cooperation in avoiding unnecessary resource usage.
+
 
 ## その他
 葬送のフリーレンにおける著作権は ©️ 山田鐘人・アベツカサ/小学館 (敬称略) に帰属し、それを尊重します。
