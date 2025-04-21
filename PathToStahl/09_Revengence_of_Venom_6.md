@@ -2092,3 +2092,9 @@ Path to Stahl第９話 「間に合ったみたいだ」とフリーレンの指
 そうしてまた彼は来る明日に向けて歩き出すのだった。  
 
 ～ 報復の猛毒は英雄詩を謳う ＜Revengence of Venom＞ FIN and to be continued ～
+
+# ご意見等
+
+ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)まで。
+
+リクエストなどもあれば遠慮なくどうぞ
