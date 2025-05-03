@@ -114,11 +114,11 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[08_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 5](./PathToStahl/08_Revengence_of_Venom_5.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24482019)|オリジナル、フェルン、フリーレン|    
     |[09_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 6](./PathToStahl/09_Revengence_of_Venom_6.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24536070)|オリジナル、シュタルク、フェルン、フリーレン|    
     |[10_魔法都市と巡り合わせの輪舞曲_前](./PathToStahl/10_魔法都市と巡り合わせの輪舞曲_前.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24582837)|オリジナル、シュタルク、フェルン、ゲナウ、メトーデ、ラント、ユーベル|
+    |[11_魔法都市と巡り合わせの輪舞曲_中](./PathToStahl/11_魔法都市と巡り合わせの輪舞曲_中.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24629204)|オリジナル、シュタルク、フェルン、ゲナウ、メトーデ、ラント、ユーベル|
+    |[12_魔法都市と巡り合わせの輪舞曲_後](./PathToStahl/12_魔法都市と巡り合わせの輪舞曲_後.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24681030)|オリジナル、シュタルク、フェルン、ゲナウ、メトーデ、ラント、ユーベル|
 
 ## 書きかけ版
 作成中のものなので未完＆誤字多め等々でも良ければ。
-
-- [魔法都市と巡り合わせの輪舞曲](./draft/魔法都市と巡り合わせの輪舞曲.md) 
 
 
 ## その他
