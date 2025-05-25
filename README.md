@@ -53,6 +53,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11475764)
 |[青い蝶と紫の影を落とす華](./frierenSINGLE/07_青い蝶と紫の影を落とす華.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=22885649)|フリーレン、フェルン、シュタルク、オリジナルゲストキャラ|
 |[幕間の短編集_in_Journey_to_Aureole](./frierenSINGLE/08_幕間の短編集①_in_Journey_to_Aureole.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23556454)|フェルン、シュタルク|
 |[黒翼と子猫](./frierenSINGLE/09_黒翼と子猫.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23692407)|ゲナウ、メトーデ|
+|[エルフの魔法使いと不滅の花](./frierenSINGLE/10_The_Elven_Mage_and_the_Immortal_Flower.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24860809)|フリーレン、フェルン、シュタルク|
 
 
 ## 葬送のフリーレン-アフターオレオールシリーズ
