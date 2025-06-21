@@ -105,20 +105,20 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
 - 本編
     |タイトル|外部Link|主要キャラ|
     |----|----|----|
-    |[01_追憶の英雄譚と鋼_1](./PathToStahl/01_追憶の英雄譚と鋼_1.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23532246)|オリジナル、フェルン、フリーレン、（シュタルク）|
-    |[02_追憶の英雄譚と鋼_2](./PathToStahl/02_追憶の英雄譚と鋼_2.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23651000)|オリジナル、シュタルク、フェルン、フリーレン|
-    |[03_追憶の英雄譚と鋼_3](./PathToStahl/03_追憶の英雄譚と鋼_3.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23847514)|オリジナル、シュタルク、フェルン、フリーレン|
-    |[04_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 1](./PathToStahl/04_Revengence_of_Venom_1.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23992486)|オリジナル、シュタルク|    
-    |[05_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 2](./PathToStahl/05_Revengence_of_Venom_2.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24111792)|オリジナル、フェルン、フリーレン|    
-    |[06_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 3](./PathToStahl/06_Revengence_of_Venom_3.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24382633)|オリジナル、フェルン、フリーレン|    
-    |[07_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 4](./PathToStahl/07_Revengence_of_Venom_4.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24481978)|オリジナル、フェルン、フリーレン|    
-    |[08_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 5](./PathToStahl/08_Revengence_of_Venom_5.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24482019)|オリジナル、フェルン、フリーレン|    
-    |[09_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 6](./PathToStahl/09_Revengence_of_Venom_6.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24536070)|オリジナル、シュタルク、フェルン、フリーレン|    
-    |[10_魔法都市と巡り合わせの輪舞曲_前](./PathToStahl/10_魔法都市と巡り合わせの輪舞曲_前.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24582837)|オリジナル、シュタルク、フェルン、ゲナウ、メトーデ、ラント、ユーベル|
-    |[11_魔法都市と巡り合わせの輪舞曲_中](./PathToStahl/11_魔法都市と巡り合わせの輪舞曲_中.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24629204)|オリジナル、シュタルク、フェルン、ゲナウ、メトーデ、ラント、ユーベル|
-    |[12_魔法都市と巡り合わせの輪舞曲_後](./PathToStahl/12_魔法都市と巡り合わせの輪舞曲_後.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24681030)|オリジナル、シュタルク、フェルン、ゲナウ、メトーデ、ラント、ユーベル|
+    |[01_追憶の英雄譚と鋼_1【第1部】](./PathToStahl/01_追憶の英雄譚と鋼_1.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23532246)|オリジナル、フェルン、フリーレン、（シュタルク）|
+    |[02_追憶の英雄譚と鋼_2【第1部】](./PathToStahl/02_追憶の英雄譚と鋼_2.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23651000)|オリジナル、シュタルク、フェルン、フリーレン|
+    |[03_追憶の英雄譚と鋼_3【第1部】](./PathToStahl/03_追憶の英雄譚と鋼_3.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23847514)|オリジナル、シュタルク、フェルン、フリーレン|
+    |[04_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 1【第1部】](./PathToStahl/04_Revengence_of_Venom_1.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23992486)|オリジナル、シュタルク|    
+    |[05_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 2【第1部】](./PathToStahl/05_Revengence_of_Venom_2.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24111792)|オリジナル、フェルン、フリーレン|    
+    |[06_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 3【第1部】](./PathToStahl/06_Revengence_of_Venom_3.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24382633)|オリジナル、フェルン、フリーレン|    
+    |[07_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 4【第1部】](./PathToStahl/07_Revengence_of_Venom_4.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24481978)|オリジナル、フェルン、フリーレン|    
+    |[08_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 5【第1部】](./PathToStahl/08_Revengence_of_Venom_5.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24482019)|オリジナル、フェルン、フリーレン|    
+    |[09_報復の猛毒は英雄詩を謳う 〜Revengence of Venom 〜 6【第1部】](./PathToStahl/09_Revengence_of_Venom_6.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24536070)|オリジナル、シュタルク、フェルン、フリーレン|    
+    |[10_魔法都市と巡り合わせの輪舞曲_前【幕間1-1】](./PathToStahl/10_魔法都市と巡り合わせの輪舞曲_前.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24582837)|オリジナル、シュタルク、フェルン、ゲナウ、メトーデ、ラント、ユーベル|
+    |[11_魔法都市と巡り合わせの輪舞曲_中【幕間1-1】](./PathToStahl/11_魔法都市と巡り合わせの輪舞曲_中.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24629204)|オリジナル、シュタルク、フェルン、ゲナウ、メトーデ、ラント、ユーベル|
+    |[12_魔法都市と巡り合わせの輪舞曲_後【幕間1-1】](./PathToStahl/12_魔法都市と巡り合わせの輪舞曲_後.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24681030)|オリジナル、シュタルク、フェルン、ゲナウ、メトーデ、ラント、ユーベル|
     |[13_街の営みと彼の日常【幕間1-2】](./PathToStahl/13_His_Gentle_Days_and_the_Towns_Rhythm.md) |[Pixiv Link](hhttps://www.pixiv.net/novel/show.php?id=25036778)|オリジナル、シュタルク、フェルン、フリーレン|
-        
+    |[14_鮮血の月と廃城の夢【第2部】](./PathToStahl/14_Crimson_Moon_over_Ruins_Nightmare_01.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25120309)|オリジナル、シュタルク、フェルン|
 
 
 

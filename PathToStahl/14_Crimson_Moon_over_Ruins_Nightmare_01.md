@@ -1,4 +1,4 @@
-# 鮮血の月と廃城の夢 ～Crimson Moon over Ruins Nightmare～  
+# 鮮血の月と廃城の夢 ～Crimson Moon over Ruins Nightmare～ 01
 
 ```  
 「シュタアル。これは救いのない悲劇だ。惨劇だ。唯一の救いは俺達二人が残ったこと。それだけだ」    
@@ -1227,3 +1227,10 @@
 シュタアルは聞き遂げなければならない。  
 これからのルーエを救うために、父と母の想いを継ぐために、兄弟子の想いを受け取るために。  
 
+～ 鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 01 to be continued ～  
+
+# ご意見等
+
+ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)まで。
+
+リクエストなどもあれば遠慮なくどうぞ
