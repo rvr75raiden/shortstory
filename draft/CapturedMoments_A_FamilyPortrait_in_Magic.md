@@ -1,4 +1,4 @@
-# 写真の魔法と家族の風景
+# 写真の魔法と家族の情景～Captured Moments: A Family Portrait in Magic～
 
 ```  
 ある日家族の絵を書いてきてくれたシュタルクとフェルンの子のエリシア。  
