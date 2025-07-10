@@ -1418,3 +1418,17 @@
 彼女に同意して笑った。  
 
 ～ エルフの魔法使いと不滅の花 fin ～  
+
+
+# ご意見等
+
+面白かった場合は Pixiv にいいねを付けてくれると作者のモチベーションに繋がります。  
+[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24860809)
+
+ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)まで。
+
+リクエストなどもあれば遠慮なくどうぞ
+
+## その他
+葬送のフリーレンにおける著作権は ©️ 山田鐘人・アベツカサ/小学館 (敬称略) に帰属し、それを尊重します。
+同一性保持権、翻案権に基づき権利者からの申し入れなど入った場合は本サイトコンテンツは即座に削除いたします。
