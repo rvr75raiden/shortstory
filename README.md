@@ -118,7 +118,8 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[11_魔法都市と巡り合わせの輪舞曲_中【幕間1-1】](./PathToStahl/11_魔法都市と巡り合わせの輪舞曲_中.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24629204)|オリジナル、シュタルク、フェルン、ゲナウ、メトーデ、ラント、ユーベル|
     |[12_魔法都市と巡り合わせの輪舞曲_後【幕間1-1】](./PathToStahl/12_魔法都市と巡り合わせの輪舞曲_後.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24681030)|オリジナル、シュタルク、フェルン、ゲナウ、メトーデ、ラント、ユーベル|
     |[13_街の営みと彼の日常【幕間1-2】](./PathToStahl/13_His_Gentle_Days_and_the_Towns_Rhythm.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25036778)|オリジナル、シュタルク、フェルン、フリーレン|
-    |[14_鮮血の月と廃城の夢【第2部】](./PathToStahl/14_Crimson_Moon_over_Ruins_Nightmare_01.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25120309)|オリジナル、シュタルク、フェルン|
+    |[14_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 01【第2部】](./PathToStahl/14_Crimson_Moon_over_Ruins_Nightmare_01.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25120309)|オリジナル、シュタルク、フェルン|
+    |[15_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 02【第2部】](./PathToStahl/15_Crimson_Moon_over_Ruins_Nightmare_02.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25283474)|オリジナル、シュタルク、フェルン|
 
 
 
