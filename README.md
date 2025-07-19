@@ -54,6 +54,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11475764)
 |[幕間の短編集_in_Journey_to_Aureole](./frierenSINGLE/08_幕間の短編集①_in_Journey_to_Aureole.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23556454)|フェルン、シュタルク|
 |[黒翼と子猫](./frierenSINGLE/09_黒翼と子猫.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=23692407)|ゲナウ、メトーデ|
 |[エルフの魔法使いと不滅の花](./frierenSINGLE/10_The_Elven_Mage_and_the_Immortal_Flower.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24860809)|フリーレン、フェルン、シュタルク|
+|[君の心は二律背反シンメトリー](./frierenSINGLE/11_YourHeart_A_ParadoxicalSymmetry.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25357069)|フリーレン、フェルン、シュタルク|
 
 
 ## 葬送のフリーレン-アフターオレオールシリーズ
