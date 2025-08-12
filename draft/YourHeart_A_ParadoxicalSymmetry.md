@@ -1,1 +1,0 @@
-[君の心は二律背反シンメトリ](../frierenSINGLE/11_YourHeart_A_ParadoxicalSymmetry.md) に移動しました。

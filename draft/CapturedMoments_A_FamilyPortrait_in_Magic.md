@@ -1,1 +1,0 @@
-[こちら](../AfterAUREOLE/24_CapturedMoments_A_FamilyPortrait_in_Magic.md)に移動しました。
