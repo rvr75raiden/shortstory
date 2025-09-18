@@ -98,7 +98,9 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[22_ワスレナグサとトコハナの唄.md](./AfterAUREOLE/22_ワスレナグサとトコハナの唄.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24333896)|シュタルク、フェルン、フリーレン、オルデン卿、オリジナル|
     |[23_二人だけの日](./AfterAUREOLE/23_二人だけの日.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24538837)|シュタルク、フェルン、フリーレン、オリジナル|
     |[24_居間に飾るものじゃないの、家族写真って?](./AfterAUREOLE/24_CapturedMoments_A_FamilyPortrait_in_Magic.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25420566)|シュタルク、フェルン、フリーレン、オリジナル|
-    |[25_真紅のお姫様と北壁のお嬢様](./AfterAUREOLE/25_TheScarletPrincess_and_theHeiress_of_theNorthernWall_01.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25695943)|シュタルク、フェルン、フリーレン、オリジナル、ヴィアベル、エーレ|
+    |[25_真紅のお姫様と北壁のお嬢様 前篇](./AfterAUREOLE/25_TheScarletPrincess_and_theHeiress_of_theNorthernWall_01.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25695943)|シュタルク、フェルン、フリーレン、オリジナル、ヴィアベル、エーレ|
+    |[26_真紅のお姫様と北壁のお嬢様 中編](./AfterAUREOLE/26_TheScarletPrincess_and_theHeiress_of_theNorthernWall_02.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25910737)|シュタルク、フェルン、フリーレン、オリジナル、ヴィアベル、エーレ|
+    |[27_真紅のお姫様と北壁のお嬢様 後編](./AfterAUREOLE/27_TheScarletPrincess_and_theHeiress_of_theNorthernWall_03.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25910798)|シュタルク、フェルン、フリーレン、オリジナル、ヴィアベル、エーレ|
 
 
 
