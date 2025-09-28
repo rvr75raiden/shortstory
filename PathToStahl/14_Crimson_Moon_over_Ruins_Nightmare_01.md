@@ -1,3 +1,8 @@
+- [14_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 01【第2部】](./14_Crimson_Moon_over_Ruins_Nightmare_01.md)  
+- [15_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 02【第2部】](./15_Crimson_Moon_over_Ruins_Nightmare_02.md) 
+- [16_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 03【第2部】](./16_Crimson_Moon_over_Ruins_Nightmare_03.md) 
+- [17_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 04【第2部完】](./17_Crimson_Moon_over_Ruins_Nightmare_04.md) 
+
 # 鮮血の月と廃城の夢 ～Crimson Moon over Ruins Nightmare～ 01
 
 ```  
@@ -1228,6 +1233,9 @@
 これからのルーエを救うために、父と母の想いを継ぐために、兄弟子の想いを受け取るために。  
 
 ～ 鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 01 to be continued ～  
+
+[Go to Next](./15_Crimson_Moon_over_Ruins_Nightmare_02.md)
+
 
 # ご意見等
 

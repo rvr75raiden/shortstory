@@ -127,6 +127,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[14_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 01【第2部】](./PathToStahl/14_Crimson_Moon_over_Ruins_Nightmare_01.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25120309)|オリジナル、シュタルク、フェルン|
     |[15_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 02【第2部】](./PathToStahl/15_Crimson_Moon_over_Ruins_Nightmare_02.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25283474)|オリジナル、シュタルク、フェルン|
     |[16_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 03【第2部】](./PathToStahl/16_Crimson_Moon_over_Ruins_Nightmare_03.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25624620)|オリジナル、シュタルク、フェルン|
+    |[17_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 04【第2部完】](./PathToStahl/17_Crimson_Moon_over_Ruins_Nightmare_04.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26042360)|オリジナル、シュタルク、フェルン|
 
 
 

@@ -1,7 +1,7 @@
-- [14_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 01【第2部】](../PathToStahl/14_Crimson_Moon_over_Ruins_Nightmare_01.md)  
-- [15_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 02【第2部】](../PathToStahl/15_Crimson_Moon_over_Ruins_Nightmare_02.md) 
-- [16_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 03【第2部】](../PathToStahl/16_Crimson_Moon_over_Ruins_Nightmare_03.md) 
-
+- [14_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 01【第2部】](./14_Crimson_Moon_over_Ruins_Nightmare_01.md)  
+- [15_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 02【第2部】](./15_Crimson_Moon_over_Ruins_Nightmare_02.md) 
+- [16_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 03【第2部】](./16_Crimson_Moon_over_Ruins_Nightmare_03.md) 
+- [17_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 04【第2部完】](./17_Crimson_Moon_over_Ruins_Nightmare_04.md) 
 
 # 鮮血の月と廃城の夢 ～Crimson Moon over Ruins Nightmare～ 04  
 
@@ -1992,4 +1992,16 @@
 そして、一体の魔族の全ての世界はここで完全に暗転した。  
 
 ～ 鮮血の月と廃城の夢 fin ～
+
+
+# ご意見等
+
+面白かった場合は Pixiv にいいねを付けてくれると作者のモチベーションに繋がります。  
+[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26042360)
+
+
+ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)まで。
+
+リクエストなどもあれば遠慮なくどうぞ
+
 
