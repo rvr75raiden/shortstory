@@ -1463,13 +1463,13 @@
 「まさか……力の源となっていた竜を……奪い取ったのですか！？」  
 「どういうことだ」  
 
-シュタルクの疑問にフェルンは恐る恐るという様子で考えられる可能性を口にする。
+シュタルクの疑問にフェルンは恐る恐るという様子で考えられる可能性を口にする。  
 
 「おそらく、ナハトが今まで振るっていた力をルーエ様が……奪い取った……と見るのが正しいでしょう」  
 「あれを……エアフォルクの妹の女の子が？見た目10歳そこそこだぞ？」  
 
 少女は、上空から黒い翼を広げてゆっくりと降りてくる。  
-エアフォルクはその少女の下へ必死に走っていった。
+エアフォルクはその少女の下へ必死に走っていった。  
 
 「にい……さん……」  
 
@@ -1991,17 +1991,17 @@
 
 そして、一体の魔族の全ての世界はここで完全に暗転した。  
 
-～ 鮮血の月と廃城の夢 fin ～
+～ 鮮血の月と廃城の夢 fin ～  
 
 
-# ご意見等
+# ご意見等  
 
 面白かった場合は Pixiv にいいねを付けてくれると作者のモチベーションに繋がります。  
-[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26042360)
+[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26042360)  
 
 
-ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)まで。
+ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)まで。  
 
-リクエストなどもあれば遠慮なくどうぞ
+リクエストなどもあれば遠慮なくどうぞ  
 
 
