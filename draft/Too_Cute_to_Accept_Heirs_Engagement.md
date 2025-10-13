@@ -1,4 +1,4 @@
-# オルデン家次期当主は断りたい  ～Reluctant Heir: Finding Acceptance in an Unexpected Match～  
+# オルデン家次期当主は断りたい  ～Too Cute to Accept: Heir’s Engagement ～  
 
 ## 可愛い許婚は遠慮したい  
 
