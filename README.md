@@ -102,7 +102,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[25_真紅のお姫様と北壁のお嬢様 前篇](./AfterAUREOLE/25_TheScarletPrincess_and_theHeiress_of_theNorthernWall_01.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25695943)|シュタルク、フェルン、フリーレン、オリジナル、ヴィアベル、エーレ|
     |[26_真紅のお姫様と北壁のお嬢様 中編](./AfterAUREOLE/26_TheScarletPrincess_and_theHeiress_of_theNorthernWall_02.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25910737)|シュタルク、フェルン、フリーレン、オリジナル、ヴィアベル、エーレ|
     |[27_真紅のお姫様と北壁のお嬢様 後編](./AfterAUREOLE/27_TheScarletPrincess_and_theHeiress_of_theNorthernWall_03.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25910798)|シュタルク、フェルン、フリーレン、オリジナル、ヴィアベル、エーレ|
-
+    |[28_オルデン家次期当主は断りたい](./AfterAUREOLE/28_Too_Cute_to_Accept_Heirs_Engagement.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26352877)|シュタルク、フェルン、フリーレン、オルデン卿、ムート|
 
 
 ## 葬送のフリーレン- Path to Stahl 
