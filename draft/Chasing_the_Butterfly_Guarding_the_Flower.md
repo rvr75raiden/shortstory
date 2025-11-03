@@ -1,4 +1,4 @@
-# 君は高嶺の花に止まる蝶 ～Chasing the Butterfly, Guarding the Flower～  
+# 君は高嶺の花に止まる蝶（仮） ～Chasing the Butterfly, Guarding the Flower～  
 
 <!--  
 「シュタルクの嫉妬」というテーマで小説を書いてみてほしいです。リクエストです！フェルン→シュタルクの描写が二次創作では多いイメージなので、逆の場合、らいでんさんならどんなストーリーを考えられるでしょうか？  
