@@ -1,1 +1,0 @@
-[移動しました](../AfterAUREOLE/28_Too_Cute_to_Accept_Heirs_Engagement.md)

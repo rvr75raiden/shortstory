@@ -1,1 +1,0 @@
-[移動](../frierenSINGLE/12_So_Glad_to_See_the_moon_with_you.md)しました。
