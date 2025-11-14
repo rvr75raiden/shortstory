@@ -1,4 +1,4 @@
-# 蒼の蝶と鋼の一閃   
+# 庭園を舞う蝶と蒼の試練 ～ Waltz of the Blue Butterflies and the Trial Garden ～
 
 ## イントロダクション  
 ■ 独自キャラクター  
