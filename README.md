@@ -56,6 +56,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11475764)
 |[エルフの魔法使いと不滅の花](./frierenSINGLE/10_The_Elven_Mage_and_the_Immortal_Flower.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=24860809)|フリーレン、フェルン、シュタルク|
 |[君の心は二律背反シンメトリー](./frierenSINGLE/11_YourHeart_A_ParadoxicalSymmetry.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=25357069)|フリーレン、フェルン、シュタルク|
 |[月が綺麗ですねと君は言う](./frierenSINGLE/12_So_Glad_to_See_the_moon_with_you.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26116877)|フリーレン、フェルン、シュタルク|
+|[凪の日、戦斧の柄にとまる蝶](/frierenSINGLE/13_A_Gentler_Day_The_Butterfly_on%20_he_Axe.md)|[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26453714)|フリーレン、フェルン、シュタルク|
 
 
 ## 葬送のフリーレン-アフターオレオールシリーズ
