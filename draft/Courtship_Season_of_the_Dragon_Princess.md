@@ -1,4 +1,4 @@
-# 竜姫の求愛期 ～Courtship Season of the Dragon Princess～  
+# 竜の姫の求愛期 ～Courtship Season of the Dragon Princess～  
 
 ## イントロダクション  
 ■ 独自キャラクター  
