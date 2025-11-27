@@ -1749,3 +1749,11 @@
 
 ～ 竜姫の求愛期 fin ～  
 
+# ご意見等  
+
+面白かった場合は Pixiv にいいねを付けてくれると作者のモチベーションに繋がります。  
+[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26569986)  
+
+ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)へどうぞ。  
+
+リクエストなどもあれば遠慮なくどうぞ  
