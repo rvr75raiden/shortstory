@@ -132,6 +132,7 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[17_鮮血の月と廃城の夢 - Crimson Moon over Ruins Nightmare - 04【第2部完】](./PathToStahl/17_Crimson_Moon_over_Ruins_Nightmare_04.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26042360)|オリジナル、シュタルク、フェルン|
     |[18_庭園を舞う蝶と蒼の試練 ～ Waltz of the Blue Butterflies and the Trial Garden ～【幕間2-1】](/PathToStahl/18_Waltz_of_the_Blue_Butterflies_and_the_Trial_Garden.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26493716)|オリジナル、シュタルク、フェルン|
     |[19_竜の姫の求愛期 ～Courtship Season of the Dragon Princess～ 【幕間2-2】](/PathToStahl/19_Courtship_Season_of_the_Dragon_Princess.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26569986)|オリジナル、シュタルク、フェルン、フリーレン|
+    |[20 学園と灰燼と白翼の戦乙女 01  ～The Academy, the Ashes, and the White-Winged Valkyrie～【第3部】](/PathToStahl/20_TheAcademy_theAshes_andtheWhite-WingedValkyrie01.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26646043)|オリジナル、シュタルク、フェルン、フリーレン|
 
 庭園を舞う蝶と蒼の試練
 ## その他
