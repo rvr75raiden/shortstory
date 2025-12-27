@@ -1268,11 +1268,12 @@
 
 ある種の宣戦布告状だったと、後になれば思える言葉だった。  
 
+～ 学園と灰燼と白翼の戦乙女 03 to be continued ～  
 
 # ご意見等  
 
 面白かった場合は Pixiv にいいねを付けてくれると作者のモチベーションに繋がります。  
-[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26763797)  
+[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26827072)  
 
 ご意見、コメント等は[マシュマロ](https://marshmallow-qa.com/g6ovizis0w4yvse?t=0p4BNL&utm_medium=url_text&utm_source=promotion)または[X](https://x.com/rvr75_raiden/)へどうぞ。  
 
