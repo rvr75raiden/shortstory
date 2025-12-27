@@ -134,8 +134,8 @@ Pixiv は [こちらです](https://www.pixiv.net/novel/series/11445928) 本編�
     |[19_竜の姫の求愛期 ～Courtship Season of the Dragon Princess～ 【幕間2-2】](/PathToStahl/19_Courtship_Season_of_the_Dragon_Princess.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26569986)|オリジナル、シュタルク、フェルン、フリーレン|
     |[20 学園と灰燼と白翼の戦乙女 01  ～The Academy, the Ashes, and the White-Winged Valkyrie～【第3部】](/PathToStahl/20_TheAcademy_theAshes_andtheWhite-WingedValkyrie01.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26646043)|オリジナル、シュタルク、フェルン、フリーレン|
     |[21 学園と灰燼と白翼の戦乙女 02  ～The Academy, the Ashes, and the White-Winged Valkyrie～【第3部】](/PathToStahl/21_TheAcademy_theAshes_andtheWhite-WingedValkyrie02.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26763797)|オリジナル、ゲナウ、メトーデ、ラヴィーネ|
+    |[22 学園と灰燼と白翼の戦乙女 03  ～The Academy, the Ashes, and the White-Winged Valkyrie～【第3部】](/PathToStahl/22_TheAcademy_theAshes_andtheWhite-WingedValkyrie03.md) |[Pixiv Link](https://www.pixiv.net/novel/show.php?id=26827072)|オリジナル、ゲナウ、メトーデ、ラヴィーネ|
 
-庭園を舞う蝶と蒼の試練
 ## その他
 本リポジトリは『葬送のフリーレン』の二次創作コンテンツを管理しています。  
 著作権は ©️ 山田鐘人様・アベツカサ様/小学館様 に帰属し、これを深く尊重いたします。
